@@ -1,0 +1,158 @@
+# Copyright (C) 2022 
+# This file is distributed under the same license as the Custom Post Type List Field For Contact Form 7 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type List Field For Contact Form 7 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-post-type-list-field-for-contact-form-7\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-11T07:07:52+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: custom-post-type-list-field-for-contact-form-7\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Post Type List Field For Contact Form 7"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows create Custom Post Type List Field For Contact Form 7 plugin."
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:10
+msgid "Posts drop-down menu"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:18
+msgid "Generate a form-tag for a group of post drop-down menu. For more details, see %s."
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:26
+#: main/backend/cptlfcf7-post-control.php:29
+msgid "Field type"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:30
+msgid "Required field"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:35
+msgid "Name"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:69
+msgid "Filter Option"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:72
+msgid "--- Select Option ---"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:73
+#: main/backend/cptlfcf7-post-control.php:79
+msgid "Category"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:74
+#: main/backend/cptlfcf7-post-control.php:95
+msgid "Tags"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:109
+msgid "Order by"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:112
+msgid "Date"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:115
+msgid "Order by post ID"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:118
+msgid "Author"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:121
+msgid "Random order"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:126
+msgid "Sort order"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:129
+msgid "Descending"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:132
+msgid "Ascending"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:139
+msgid "Options"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:142
+msgid "Allow multiple selections"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:143
+msgid "Insert a blank item as the first option"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:144
+msgid "Enable Search box on List Dropdown."
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:149
+msgid "Metadata"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:155
+msgid "Use pipe-separated post attributes (e.g.date|time|slug|author|category|tags|meta_key) per field."
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:161
+msgid "Image Options"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:164
+msgid "Show Or Hide Image"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:165
+msgid "Custom Image Size (Width)"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:170
+msgid "Content Options"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:173
+msgid "Show Or Hide Content"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:177
+msgid "Define the number of words for the excerpt. Default \"15\""
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:184
+msgid "Id attribute"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:188
+msgid "Class attribute"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:199
+msgid "Insert Tag"
+msgstr ""
+
+#: main/backend/cptlfcf7-post-control.php:204
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr ""
